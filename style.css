@@ -1,0 +1,53 @@
+style.css
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(https://www.gifss.com/economia/bitcoin/images/bitcoin-02.gif);
+    font-size: 2rem;
+    font-family: fantasy;
+    overflow: hidden;
+    text-align: center;
+}
+
+audio{
+    
+}
+
+.container{
+    
+    
+}
+
+.container2{
+    display: none;
+}
+
+.container3{
+
+}
+
+.botão{
+   text-align: center;
+}
+
+button{
+    font-size: 2rem;
+}
+
+a{
+    color: red;
+    font-size: 5rem;
+    text-decoration: none;
+}
+
+button {
+    margin: 10rem;
+    padding: 1rem;
+   
+}
+
+
+
